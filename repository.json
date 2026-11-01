@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "repositoryId": "a-list.asrc",
+  "name": "a-list astc",
+  "description": "a-list repository",
+  "packages": [
+    {
+      "sourceId": "ani.gamer.com.tw",
+      "name": "巴哈姆特動畫瘋",
+      "version": 4,
+      "versionName": "1.3.0-preview",
+      "hostApiVersion": 6,
+      "adult": false,
+      "downloadUrl": "dist/ani.gamer.com.tw-4.animesource",
+      "sha256": "0e9aa51678c4381e8914cd2f18d7f3f6165d44cb0d1ae0976df2a94cd44de6ec",
+      "signerKeyId": "f86de5e418c6e5051140ad448582c4303b05a56a3caca4c1fbf19b5ca5b28b3e"
+    },
+    {
+      "sourceId": "anime1.me",
+      "name": "Anime1.me",
+      "version": 4,
+      "versionName": "1.3-preview",
+      "hostApiVersion": 6,
+      "adult": false,
+      "downloadUrl": "dist/anime1.me-4.animesource",
+      "sha256": "b041dd0133c8417fa9f8cba1722db7edecec816d2489b0ca1949d19734ae7469",
+      "signerKeyId": "f86de5e418c6e5051140ad448582c4303b05a56a3caca4c1fbf19b5ca5b28b3e"
+    },
+    {
+      "sourceId": "anime1.one",
+      "name": "Anime1.one",
+      "version": 3,
+      "versionName": "1.2.0-preview",
+      "hostApiVersion": 6,
+      "adult": false,
+      "downloadUrl": "dist/anime1.one-3.animesource",
+      "sha256": "ef4ed1a2a76cb771a6aff52f32e96219a7b713745c3a019fb618922c3b22983c",
+      "signerKeyId": "f86de5e418c6e5051140ad448582c4303b05a56a3caca4c1fbf19b5ca5b28b3e"
+    },
+    {
+      "sourceId": "anime1.pw",
+      "name": "Anime1.pw",
+      "version": 3,
+      "versionName": "1.2-preview",
+      "hostApiVersion": 6,
+      "adult": true,
+      "downloadUrl": "dist/anime1.pw-3.animesource",
+      "sha256": "d0dc6f7493e9db17d656b2a88b6a6f2eb4ae383fbc5a41847be1c6d481223065",
+      "signerKeyId": "f86de5e418c6e5051140ad448582c4303b05a56a3caca4c1fbf19b5ca5b28b3e"
+    },
+    {
+      "sourceId": "hanime1.me.preview",
+      "name": "Hanime1.me（單集瀏覽測試版）",
+      "version": 10,
+      "versionName": "0.11-preview",
+      "hostApiVersion": 6,
+      "adult": true,
+      "downloadUrl": "dist/hanime1.me.preview-10.animesource",
+      "sha256": "88f9da5994ae3568005bd8a15dafa6c01b9da2b655acb096f3fbcf92442ec566",
+      "signerKeyId": "f86de5e418c6e5051140ad448582c4303b05a56a3caca4c1fbf19b5ca5b28b3e"
+    }
+  ]
+}
