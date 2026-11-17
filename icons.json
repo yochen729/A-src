@@ -1,0 +1,34 @@
+{
+  "icons": [
+    {
+      "sourceId": "ani.gamer.com.tw",
+      "version": 5,
+      "icon": "dist/icons/ani.gamer.com.tw-5.png",
+      "sha256": "6d96aa54c508050001b32446b1c9b7288adc9493198d5d928e271dd595c1be11"
+    },
+    {
+      "sourceId": "anime1.me",
+      "version": 5,
+      "icon": "dist/icons/anime1.me-5.png",
+      "sha256": "d48792b0405cb6fa7ef8ae6010b39e13f7df42de9afd293be1d85a4e2baa7e16"
+    },
+    {
+      "sourceId": "anime1.one",
+      "version": 4,
+      "icon": "dist/icons/anime1.one-4.png",
+      "sha256": "d48792b0405cb6fa7ef8ae6010b39e13f7df42de9afd293be1d85a4e2baa7e16"
+    },
+    {
+      "sourceId": "anime1.pw",
+      "version": 4,
+      "icon": "dist/icons/anime1.pw-4.png",
+      "sha256": "d48792b0405cb6fa7ef8ae6010b39e13f7df42de9afd293be1d85a4e2baa7e16"
+    },
+    {
+      "sourceId": "hanime1.me.preview",
+      "version": 11,
+      "icon": "dist/icons/hanime1.me.preview-11.png",
+      "sha256": "21550d2f9599eff55daa554e29c2bbe498b3b82ace6a0355e4626e89a95340d6"
+    }
+  ]
+}
